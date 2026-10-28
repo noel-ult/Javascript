@@ -1,9 +1,16 @@
 # Javascript source reference
 
-
-Source reviewed: [`626f3471ab9c`](https://github.com/noel-ult/Javascript/commit/626f3471ab9c8b47d8167c3b0df0a01fa3e47274).
+Source reviewed: [`72bdc1286a02`](https://github.com/noel-ult/Javascript/commit/72bdc1286a023abf4c3b684893ef3f3f7522d8cb).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
+
+## Existing documentation
+
+Historical plans/reports describe their own revision; use current source when they disagree.
+
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [README.md](../README.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 
 ## Source and configuration map
 
